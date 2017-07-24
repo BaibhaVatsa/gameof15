@@ -1,11 +1,6 @@
 /*
  * Hello!
- * Name: Baibhav Vatsa
- * Class: XI - I
- * Roll: 10
- * School: DPS RK Puram
- * 
- * C++ Project
+ * CS50x
  * Game of 15
  * It is a puzzle game played on a square board. The goal is to arrange it in a ascending order.
  */
