@@ -1,3 +1,3 @@
-# gameof15
+# Game of 15
 
-Made as a part of Harvard's CS50x, this is the game of fifteeen.
+Made originally as a pset for Harvard's CS50x on edX, this is the code for game of fifteeen updated to be in C++.
